@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I Design and develop software for embedded system.
-I mainly work with C, and C++ but at the end of the day I love anything related with computers.
+I Design and develop software for embedded system but at the end of the day I love anything related with computers.
+I mainly work with C, C++, and python and also learning Rust.
 
 - 🔭 I’m currently working on real-time and embedded systems.
 - 🌱 I’m currently learning Rust
