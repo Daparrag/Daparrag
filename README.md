@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I Design and develop software for embedded system but at the end of the day I love anything related with computers.
+I Design and develop software for embedded system but at the end of the day I love everything related with computers.
 I mainly work with C, C++, and python and also learning Rust.
 
 - 🔭 I’m currently working on real-time and embedded systems.
