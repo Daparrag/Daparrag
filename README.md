@@ -5,6 +5,10 @@ I mainly work with C, C++, and python and also learning Rust.
 
 - 🔭 I’m currently working on real-time and embedded systems.
 - 🌱 I’m currently learning Rust
+- 📖: I’m contributing to
+  - [Unikraft]((https://github.com/unikraft)
+  - [Zenoh](https://github.com/eclipse-zenoh)
+  - [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
 - 📫 How to reach me: guzman.diego.at@gmail.com
 
 LANGUAGES AND TOOLS
